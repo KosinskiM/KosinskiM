@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Miłosz Kosiński</h1>
+<h1 align="center">Hi 👋, I'm Miłosz</h1>
 <h3 align="center">Automatic & Robotics Engineer</h3>
 
 - 🤝 I’m currently seeking job in software development
